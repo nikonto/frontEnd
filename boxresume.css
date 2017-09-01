@@ -1,0 +1,99 @@
+
+div.containar
+{
+    width: 80%;
+    height: 150%;
+    border: 2px solid gray;
+    margin-left: 100px;
+   
+}
+header {
+
+    padding: 2em;
+    color: white;
+    background-color: black;
+    
+    text-align: center;
+
+}
+
+div.biodata {
+
+    
+    max-width: 300px;
+    max-height: 300px;
+
+   
+}
+
+div.motive {
+    margin-top: 30px;
+    max-width: 300px;
+    max-height: 300px;
+    padding-left: 0px;
+    float: left;
+}
+
+div.education{
+    max-width: 750px;
+    max-height: 700px;
+}
+
+div.keyskill {
+
+  max-height: 250px;
+  max-width: 750px;
+  margin-top: 23px;
+}
+
+div.hobby{
+
+}
+
+#biobox {
+    float: left;
+    border-radius: 25px;
+     background: -moz-linear-gradient(right,rgba(0,255,0,0),rgba(0,255,0,0.5)); 
+    margin-top: 250px;
+    padding: 20px;
+  
+}
+
+#edu {
+
+    margin-left: 300px;
+    border-radius: 25px;
+    background: -moz-linear-gradient(right,rgba(0,0,255,0),rgba(0,0,255,0.5)); 
+    margin-top: 0px;
+    padding: 20px;
+    width: auto;
+    height: auto; 
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 50px;
+}
+
+#skillbox {
+    margin-left: 300px;
+    border-radius: 25px;
+    background: -moz-linear-gradient(right,rgba(255,0,0,0),rgba(255,0,0.5)); 
+    
+    padding: 20px;
+    width: auto;
+    height: auto; 
+}
+
+ol.c {
+    list-style-type: upper-roman;
+}
+
